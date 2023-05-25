@@ -1,9 +1,10 @@
 // variables6.rs
 // Execute `rustlings hint variables6` or use the `hint` watch subcommand for a hint.
 
-// I AM NOT DONE
+// I AM NOT DON
 
-const NUMBER = 3;
+// const variable needs to be declared with a type
+const NUMBER: i32 = 3;
 fn main() {
     println!("Number {}", NUMBER);
 }
